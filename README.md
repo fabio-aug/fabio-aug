@@ -1,13 +1,11 @@
-## Fábio Augusto !!! 
+## Hi there 👋
 
-Enthusiast of the best web & mobile development technologies.
+My name is Fábio Augusto Araújo Santos, from Brazil. I love information technology. I am very interested in new technologies and development.
 
  <div>
   <a href="https://github.com/fabio-aug">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabio-aug&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-aug&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-aug&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
