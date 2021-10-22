@@ -1,7 +1,6 @@
 # 👋 Hello
 My name is Fábio Augusto, from Brazil. Student in the Information Systems course. I love information technology. I am very interested in new technologies and development.
 
-<br>
 
 # 📊 Github Stats
 <a href='https://github.com/fabio-aug/github-stats-transparent'>
