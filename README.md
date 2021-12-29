@@ -1,5 +1,5 @@
 # 👋 Hello
-My name is Fábio Augusto, from Brazil. Student in the Information Systems course. I love information technology. I am very interested in new technologies and development.
+My name is Fábio Augusto, from Brazil. Student in the Information Systems course. I love information technology, i am very interested in new technologies and development.
 
 
 # 📊 Github Stats
