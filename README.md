@@ -18,3 +18,4 @@ My name is Fábio Augusto, from Brazil. Student in the Information Systems cours
 <div>
   <a href="https://www.linkedin.com/in/f%C3%A1bio-augusto-400b55202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
