@@ -2,7 +2,7 @@
 
 <div align="center">
   <p style="max-width: 45%">
-    Meu nome é Fábio Augusto, sou técnico em informática pelo IFMG - Campus Ribeirão das Neves (2021) e atualmente estou cursando Sistemas de Informação no IFMG - Campus Sabará.
+    Meu nome é Fábio Augusto, sou técnico em informática pelo IFMG - Campus Ribeirão das Neves (2021) e atualmente estou cursando Sistemas de Informação no IFMG - Campus Sabará. Gosto bastante de programação e sou entusiasta do mundo open source.
   </p>
 </div>
 
