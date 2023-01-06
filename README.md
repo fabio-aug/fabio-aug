@@ -8,23 +8,17 @@
 
 <br />
 
-<div style="display: flex; justify-content: center" markdown="1">
-
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fábio-augusto-400b55202/)
-
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabio.augusto1911@gmail.com)
-
-  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabio.aas/)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/fábio-augusto-400b55202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fabio.augusto1911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/fabio.aas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <br />
 
-<div align="center" markdown="1">
-
-  ![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-aug&hide=TeX&layout=compact&theme=dracula)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-aug&hide=TeX&layout=compact&theme=dracula">
+</p>
 
 ----
 
