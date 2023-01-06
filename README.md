@@ -23,5 +23,5 @@
 ----
 
 <p align="center">
-  Última edição: 06/01/2023
+  Latest Edition: 06/01/2023
 </p>
