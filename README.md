@@ -1,8 +1,8 @@
 <h1 align="center"> Olá, tudo bem? 👋</h1>
 
 <div align="center">
-  <p style="max-width: 40%">
-    Meu nome é Fábio Augusto, sou técnico em informática pelo IFMG - Campus Ribeirão das Neves (2021) e estudante de Sistemas de Informação no IFMG - Campus Sabará.
+  <p style="max-width: 45%">
+    Meu nome é Fábio Augusto, sou técnico em informática pelo IFMG - Campus Ribeirão das Neves (2021) e atualmente estou cursando Sistemas de Informação no IFMG - Campus Sabará.
   </p>
 </div>
 
