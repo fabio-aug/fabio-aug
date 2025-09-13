@@ -1,8 +1,8 @@
-<h1 align="center"> Olá, tudo bem? 👋</h1>
+<h1 align="center"> Olá! Eu sou o Fábio👋</h1>
 
 <div align="center">
   <p style="max-width: 60%;">
-    My name is Fábio, I am a computer technician from IFMG - Ribeirão das Neves Campus (2021) and I am currently studying Information Systems at IFMG - Sabará Campus. I like programming, regardless of the area and I am an enthusiast of the open source world.
+    Sou formado em Técnico em Informática pelo IFMG – Ribeirão das Neves (2021) e em Sistemas de Informação pelo IFMG – Sabará (2025). Gosto bastante de programação, mas tenho um carinho especial por Pesquisa Operacional e Computação de Alto Desempenho. Além disso sou entusiasta do mundo open source 🚀
   </p>
 </div>
 
@@ -23,5 +23,5 @@
 ----
 
 <p align="center">
-  Latest Edition: 06/01/2023
+  Última edição: 13/09/2025
 </p>
