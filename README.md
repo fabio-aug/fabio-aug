@@ -2,7 +2,7 @@
 
 <div align="center">
   <p style="max-width: 60%;">
-    Sou formado em Técnico em Informática pelo IFMG – Ribeirão das Neves (2021) e em Sistemas de Informação pelo IFMG – Sabará (2025). Gosto bastante de programação, mas tenho um carinho especial por Pesquisa Operacional e Computação de Alto Desempenho. Além disso sou entusiasta do mundo open source 🚀
+    Sou formado em Técnico em Informática pelo IFMG – Ribeirão das Neves (2021) e em Sistemas de Informação pelo IFMG – Sabará (2025). Gosto bastante de programação, mas tenho um carinho especial por pesquisa operacional e Computação de alto desempenho. Além disso sou entusiasta do mundo open source 🚀
   </p>
 </div>
 
