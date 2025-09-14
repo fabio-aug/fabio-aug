@@ -23,5 +23,5 @@
 ----
 
 <p align="center">
-  Última edição: 13/09/2025
+  Última edição: 14/09/2025
 </p>
